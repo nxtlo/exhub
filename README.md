@@ -1,6 +1,6 @@
-# exhub is at the very first stages github api wrapper written in elixir.
+## exhub is at the very first stages github api wrapper written in elixir.
 
-## Simple usage
+## Simple iex usage
 
 ```
 iex(1)> user = Exhub.get_user("nxtlo")
@@ -11,7 +11,7 @@ This will return the every possible data from github api.
 
 ## Background
 
-This will be a simple get and post api using httpoison for Github
+This will be a simple get api using httpoison for Github
 
 ## Installation
 
