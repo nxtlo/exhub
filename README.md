@@ -28,17 +28,17 @@ end
 
 ## TODO
 
-[ ] Get user-specific data
-  [ ] created_at
-  [ ] avatar_url
-  [ ] username
-  [ ] type
-  [ ] url
-  [ ] bio
-  [ ] followers
-  [ ] following
-  [ ] repo_count
-  [ ] email
-  [ ] location
-  [ ] twitter_user
-  [ ] user_id
+- [ ] Get user-specific data
+  -  [ ] created_at
+  -  [ ] avatar_url
+  -  [ ] username
+  -  [ ] type
+  -  [ ] url
+  -  [ ] bio
+  -  [ ] followers
+  -  [ ] following
+  -  [ ] repo_count
+  -  [ ] email
+  -  [ ] location
+  -  [ ] twitter_user
+  -  [ ] user_id
